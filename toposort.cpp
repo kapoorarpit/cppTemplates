@@ -1,4 +1,4 @@
-    vector<int> findOrder(int n, vector<vector<int>>& pre) {// number of vertices and edges(a,b) i.e from b to a
+/*   vector<int> findOrder(int n, vector<vector<int>>& pre) {// number of vertices and edges(a,b) i.e from b to a
         vector<vector<int>> adj(n);  
         for(int i=0;i<pre.size();i++)
                 adj[pre[i][1]].push_back(pre[i][0]);
@@ -61,3 +61,4 @@
         viz[i]=2;
         return true;
     }
+    */

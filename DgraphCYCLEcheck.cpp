@@ -1,4 +1,4 @@
-    bool canFinish(int n, vector<vector<int>>& pre) {//this collects number of edges and vertices(a,b)i.e from(b to a)
+/*    bool canFinish(int n, vector<vector<int>>& pre) {//this collects number of edges and vertices(a,b)i.e from(b to a)
         vector<vector<int>> adj(n);
         
         for(int i=0;i<pre.size();i++)
@@ -36,3 +36,4 @@
         viz[i]=2;
         return true;
     }
+*/
